@@ -1,2 +1,3 @@
 # practice01
-practiceadd
+practiceadd to 
+redux practic add
